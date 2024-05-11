@@ -1,10 +1,10 @@
 ## :wave: there! I'm Renat
 
 ### A few facts about me:
-    - :baby: I started learning Python at the age of 16
-    - :fire: I’m currently working on something cool
-    - :pencil: I program in Python and am interested in scraping/parsing of data
-    - :octocat: I am looking for like-minded people and want to work together on interesting projects
+    - I started learning Python at the age of 16 :baby:
+    - I’m currently working on something cool :fire:
+    - I program in Python and am interested in scraping/parsing of data :pencil:
+    - I am looking for like-minded people and want to work together on interesting projects :octocat:
 
 ### My skills:
 #### I understand data collection from websites with dynamic and static content. I use such Python libraries as bs4, requests, lxml, selemium and others. I can work with json, csv, xml files. I have a good understanding of how http requests work. :no_mouth: 
