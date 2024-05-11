@@ -11,7 +11,7 @@
 
 ### Some statistics from my profile:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Renat-Havriliuk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renat-Havriliuk&layout=compact)](https://github.com/Renat-Havriliuk)
 
 ### Connect with me:
 
