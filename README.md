@@ -16,9 +16,7 @@
 ### Connect with me:
 
 [<img aling="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin] 
-[<img aling="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram] 
 [<img aling="left" alt="Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">][telegram]
 
 [linkedin]: www.linkedin.com/in/renathv
-[instagram]: https://www.instagram.com/renat.hv/
 [telegram]: https://t.me/yakuzza0
