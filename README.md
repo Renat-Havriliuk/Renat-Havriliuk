@@ -1,22 +1,6 @@
-## :wave: there! I'm Renat
+### Hello people!
 
-### A few facts about me:
-- I started learning Python at the age of 16 :baby:
-- I’m currently working on something cool :fire:
-- I program in Python and am interested in scraping/parsing of data :pencil:
-- I am looking for like-minded people and want to work together on interesting projects :octocat:
+#####   It seems like it’s common here to write a bit about yourself. So, here it goes: I’m 19 and I really like programming. I believe it isn't necessary to list my stack of knowledge because I'm actively developing and expanding it. If you are interested in my skills, you can easily find out about them from my repositories.
 
-### My skills:
-#### I understand data collection from websites with dynamic and static content. I use such Python libraries as bs4, requests, lxml, selemium and others. I can work with json, csv, xml files. I have a good understanding of how http requests work. :no_mouth: 
+#####   Actually, I’m friendly, but I don’t like to talk about myself without being self-critical. So, if you’re interested in chatting or working on something interesting together, feel free to message me!
 
-### Some statistics from my profile:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renat-Havriliuk&layout=compact)](https://github.com/Renat-Havriliuk)
-
-### Connect with me:
-
-[<img aling="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin] 
-[<img aling="left" alt="Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">][telegram]
-
-[linkedin]: www.linkedin.com/in/renathv
-[telegram]: https://t.me/yakuzza0
